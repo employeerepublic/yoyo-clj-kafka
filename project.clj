@@ -1,4 +1,4 @@
-(defproject yoyo-clj-kafka "0.1.0"
+(defproject yoyo-clj-kafka "0.1.1"
   :description "yoyo module for clj-kafka"
   :url "https://github.com/employeerepublic/yoyo-clj-nats-async"
   :license {:name "Apache License, Version 2.0"
